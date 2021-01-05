@@ -1,1 +1,1 @@
-# Repositório html5 e css3
+# Repositório do Projeto "Recriando a página inicial do Instagram"
